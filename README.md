@@ -10,19 +10,24 @@ my country: iran
 <br>
 <p>
 i learned:
-<br>
+<ol>
+<li>
 python
-<br>
+</li>
+<li>
 html, css, JavaScript
-<br>
+</li>
+<li>
 java
-<br>
+</li>
+<li>
 c#
-<br>
+</li>
+<li>
 c++(very basic)
-<br>
-</p>
-<br>
+</li>
+</ol>
+</br>
 <p>
 my website:
 <a href="https://Qoqnus-master.netlify.app">

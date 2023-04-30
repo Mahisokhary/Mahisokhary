@@ -18,10 +18,10 @@ python
 html, css, JavaScript
 </li>
 <li>
-java
+java(basic)
 </li>
 <li>
-c#
+c#(basic)
 </li>
 <li>
 c++(very basic)

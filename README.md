@@ -3,38 +3,41 @@
 <br>
 <br>
 <p>
-my age: 15
-<br>
-my country: iran
+    my age: 15
+    <br>
+    my country: iran
 </p>
 <br>
 <p>
-i learned:
-<ol>
-<li>
-python
-</li>
-<li>
-html, css, JavaScript
-</li>
-<li>
-java(basic)
-</li>
-<li>
-c#(basic)
-</li>
-<li>
-c++(very basic)
-</li>
-</ol>
+    i learned:
+    <ol>
+        <li>
+            python
+        </li>
+        <li>
+            html, css, JavaScript
+        </li>
+        <li>
+            java(basic)
+        </li>
+        <li>
+            c#(basic)
+        </li>
+        <li>
+            c++(very basic)
+        </li>
+    </ol>
 </br>
 <p>
-my website:
-<a href="https://Qoqnus-master.netlify.app">
-click here
-</a>
-<br>
-there are more info about me in my website
-<br>
-and my social media links
+    my website:
+    <a href="https://Qoqnus-master.netlify.app">
+        click here
+    </a>
+    <br>
+    there are more info about me in my website
+    <br>
+    and my social media links
+</p>
+<p>
+    <img align="left" style="weight: 100%;box-sizing: border-bott;" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahisokhary&show_icons=true&locale=en&layout=compact" alt="Mahisokhary" />
 </p>

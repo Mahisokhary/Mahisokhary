@@ -41,3 +41,4 @@
 <p>
     <img align="left" style="weight: 100%;box-sizing: border-bott;" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahisokhary&show_icons=true&locale=en&layout=compact" alt="Mahisokhary" />
 </p>
+<img src="https://github-readme-stats.vercel.app/api?username=Mahisokhary&&show_icons=true&title_color=000&icon_color=000&text_color=000&bg_color=fff">

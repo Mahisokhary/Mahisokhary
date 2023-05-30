@@ -9,24 +9,8 @@
 </p>
 <br>
 <p>
-    i learned:
-    <ol>
-        <li>
-            python
-        </li>
-        <li>
-            html, css, JavaScript
-        </li>
-        <li>
-            java(basic)
-        </li>
-        <li>
-            c#(basic)
-        </li>
-        <li>
-            c++(very basic)
-        </li>
-    </ol>
+    <a href="https://flowcv.com/resume/sb0is6js5r">my CV</a>
+</p>
 </br>
 <p>
     my website:

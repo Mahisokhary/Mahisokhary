@@ -1,5 +1,6 @@
 <h1>hi guys 😊👋</h1>
 <h3>im mahan</h3>
+<img src="https://komarev.com/ghpvc/?username=Mahisokhary&label=Profile%20views&color=0e75b6&style=flat">
 <br>
 <br>
 <p>

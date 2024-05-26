@@ -8,3 +8,7 @@
 
 ## Programming language
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=Mahisokhary&show_icons=true&locale=en&layout=compact&lang_count=10&theme=tokyonight)
+
+
+## WakaTime
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=qoqnus_master)](https://github.com/anuraghazra/github-readme-stats)

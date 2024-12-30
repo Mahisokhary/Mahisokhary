@@ -4,7 +4,7 @@
 ![](https://skillicons.dev/icons?i=python,django,flutter,dart,discord,linux,pycharm,vscode,postman,java,idea,maven,gradle,androidstudio,spring,ubuntu,git,github,materialui,vim,postgres,debian,redhat,sqlite,redis,netlify,md,devto,docker,pr,ae,photoshop,ai,visualstudio,unity,pornhub&perline=10)
 
 ## WakaTime
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=qoqnus_master&layout=compact)](https://wakatime.com/@Qoqnus_master)
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=qoqnus_master)](https://wakatime.com/@Qoqnus_master)
 
 ## GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Mahisokhary&&show_icons=true&title_color=000&icon_color=000&text_color=000&bg_color=fff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahisokhary&&show_icons=true&title_color=000&icon_color=000&text_color=000&bg_color=fff)

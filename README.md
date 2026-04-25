@@ -1,6 +1,6 @@
-Fuck Islamic Republic
-Free IRAN
-Be our voice
+Fuck Islamic Republic \
+Free IRAN \
+Be our voice \
 These bastards will kill us
 
 

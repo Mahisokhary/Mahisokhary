@@ -11,5 +11,5 @@ These bastards will kill us
 I love free software, posix, gnu, and arch \
 I also love to challenge my self with low level programming
 
-## Skills and Tools
-![](https://skillicons.dev/icons?i=java,idea,vim,linux,arch,pornhub)
+## Batteries
+![](https://skillicons.dev/icons?i=java,idea,vim,linux,arch,maven)

@@ -1,4 +1,4 @@
-no# FUCK ISLAMIC REPUBLIC
+# FUCK ISLAMIC REPUBLIC
 Fuck Islamic Republic \
 Free IRAN \
 Be our voice \

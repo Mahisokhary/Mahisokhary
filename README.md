@@ -1,4 +1,4 @@
-# FUCK ISLAMIC REPUBLIC
+no# FUCK ISLAMIC REPUBLIC
 Fuck Islamic Republic \
 Free IRAN \
 Be our voice \
@@ -12,4 +12,4 @@ I love free software, posix, gnu, and arch \
 I also love to challenge my self with low level programming
 
 ## Batteries
-![](https://skillicons.dev/icons?i=java,idea,vim,linux,arch,maven)
+![](https://skillicons.dev/icons?i=java,idea,vim,linux,arch,maven,bash)

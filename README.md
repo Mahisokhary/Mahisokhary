@@ -13,3 +13,5 @@ I also love to challenge my self with low level programming
 
 ## Batteries
 ![](https://skillicons.dev/icons?i=java,idea,vim,linux,arch,maven,bash)
+
+Right fucking here since `1676406600`

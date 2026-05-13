@@ -11,6 +11,12 @@ These bastards will kill us
 I love free software, posix, gnu, and arch \
 I also love to challenge my self with low level programming
 
+### Skills
+- Junior software engineer
+- Very junior arch maintainer
+- Junior java developer 
+- Very junior system admin
+
 ## Batteries
 ![](https://skillicons.dev/icons?i=java,idea,vim,linux,arch,maven,bash)
 

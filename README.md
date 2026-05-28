@@ -1,7 +1,4 @@
-I have lost access to github website (fuck Islamic republic) \
-Some of my tokens are also expired \
-And sadly github mobile is so useless \
-So sorry that i cant contribute anymore :)
+Im back (fuck islamic republic)
 
 # FUCK ISLAMIC REPUBLIC
 Fuck Islamic Republic \

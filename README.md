@@ -22,4 +22,9 @@ I also love to challenge my self with low level programming
 ## Batteries
 ![](https://skillicons.dev/icons?i=java,idea,vim,linux,arch,maven,bash)
 
+![](https://github.com/Mahisokhary/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
+![](https://github.com/Mahisokhary/github-stats/blob/generated/overview.svg#gh-light-mode-only)
+![](https://github.com/Mahisokhary/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
+![](https://github.com/Mahisokhary/github-stats/blob/generated/languages.svg#gh-light-mode-only)
+
 Right fucking here since `1676406600`

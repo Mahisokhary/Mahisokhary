@@ -23,4 +23,4 @@ I also love to challenge my self with low level programming
 ![batteries](https://skillicons.dev/icons?i=java,idea,vim,linux,arch,maven,bash)
 
 [![wakatime](https://wakatime.com/badge/user/c88f69b5-a74f-4cf3-bada-bed10b386411.svg)](https://wakatime.com/@c88f69b5-a74f-4cf3-bada-bed10b386411) \
-Right fucking here since `1676406600`
+Right fucking here since `1676385060`

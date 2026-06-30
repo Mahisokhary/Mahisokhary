@@ -13,6 +13,9 @@ These bastards will kill us
 I love free software, posix, gnu, and arch \
 I also love to challenge my self with low level programming
 
+## Streak
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=Mahisokhary&theme=gotham&hide_border=false)
+
 ### Skills
 - Junior software engineer
 - Very junior arch maintainer

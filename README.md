@@ -2,7 +2,7 @@
 
 ## Who am i?
 - Name: Mahan Nasseri
-- Age: 17
+- Age: 18
 
 I love free software, posix, gnu, and arch \
 I also love to challenge my self with low level programming

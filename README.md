@@ -4,7 +4,7 @@
 - Name: Mahan Nasseri
 - Age: 18
 
-I love free software, posix, gnu, and arch \
+I love free software, POSIX, GNU, and archlinux \
 I also love to challenge my self with low level programming
 
 ## Streak
@@ -12,12 +12,13 @@ I also love to challenge my self with low level programming
 
 ### Skills
 - Junior software engineer
-- Very junior arch maintainer
+- Very junior archlinux package maintainer
 - Junior java developer 
-- Very junior system admin
+- Very junior linux system admin
+- Junior spring developer
 
 ## Batteries
-![batteries](https://skillicons.dev/icons?i=java,idea,vim,linux,arch,maven,bash)
+![batteries](https://skillicons.dev/icons?i=java,idea,vim,linux,arch,maven,bash,c)
 
 [![wakatime](https://wakatime.com/badge/user/c88f69b5-a74f-4cf3-bada-bed10b386411.svg)](https://wakatime.com/@c88f69b5-a74f-4cf3-bada-bed10b386411) \
 Right fucking here since `1676385060`
